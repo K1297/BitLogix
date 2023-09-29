@@ -23,6 +23,8 @@ As businesses navigate the complex world of logistics, BitLogix emerges as a bea
  
 # Architecture
 
+![01_page-0001](IMG_20230930_000034.jpg)
+
 ## Components
 
 * **Frontend:** The frontend of our Dapp offers an intuitive interface for users to manage their supply chains efficiently, with seamless integration of Metamask for secure transactions.
@@ -45,7 +47,7 @@ git clone https://github.com/suraj719/BitLogix
 
 2. Install Dependencies
 
-Install the project's dependencies using Yarn:
+Install the project's dependencies:
 
 ```
 npm install
