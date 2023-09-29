@@ -74,8 +74,8 @@ The project should now be running on `http://localhost:3000`
 
 BitLogix relies on two essential smart contracts deployed on the BitTorrent chain:
 
-* BitLogix Smart Contract
-* BitLogixNFT Smart Contract 
+* **BitLogix Smart Contract**
+* **BitLogixNFT Smart Contract** 
 
 ## BitLogix Smart Contract
 
@@ -147,8 +147,50 @@ tokenURI(uint256 tokenId) public view override returns (string memory)
 
 # Troubleshooting
 
+* **Metamask Connectivity Issues**
+
+If you're experiencing difficulties connecting Metamask to the BitTorrent network, start by ensuring that your internet connection is stable. Additionally, check whether you are on the correct network which is BitTorrent Chain Donau. Sometimes, simply switching networks can resolve connectivity problems.
+
+* **Registration Problems**
+
+If you encounter obstacles during the registration process, it's important to verify that you meet the registration criteria and provide accurate information. Make sure your Metamask account is unlocked to complete the registration successfully. If issues persist, consider refreshing the registration page and attempting the process again.
+
+* **Token Reward Challenges**
+
+If you are unable to claim tokens or face issues with token rewards, start by confirming your registration status. Token rewards are typically a one-time claim, so ensure that you haven't already claimed them. To confirm receipt, check your wallet balance to see if the tokens have been credited.
+
+* **Product Management Issues**
+
+For problems related to creating products, confirming receipt, or tracking products, it's essential to check your registration status. Only registered entities and recipients can access these features. Ensure that you have correctly entered product details and review your Metamask transactions for any errors or pending transactions.
+
+* **Quality Control and NFTs**
+
+If you are encountering problems with quality control, NFT issuance, or communication with the Person-in-Charge, first, make use of the provided contact information to reach out directly. Ensure that you possess the necessary permissions to control product quality and issue NFTs within the BitLogix ecosystem.
+
 # Contribution guidline
+
+We welcome contributions from anyone who would like to help improve our dapp.
+
+To contribute, please follow the following steps:
+
+1. Fork the repository to your own GitHub account: https://github.com/suraj719/BitLogix
+2. Create a new branch from the main branch for your changes.
+3. Make your changes and commit them with clear commit messages.
+4. Push your changes to your forked repository.
+5. Open a pull request to merge your changes into the main branch.
 
 # Team Members
 
+* Nidhi Sharma
+* Kushal Sapra
+* Hemanth Bugata
+* Suraj Thammi
+* Hardik Malani
+
 # Acknowledgement 
+
+We would like to acknowledge the following individuals and resources for their contributions and support:
+
+* **BitTorrent Chain:** BitLogix harnesses the power and innovation of BitTorrent Chain to facilitate secure and efficient transactions, ensuring the integrity of our supply chain management system.
+
+* **IPFS (InterPlanetary File System):** Our decentralized file storage solution is made possible by IPFS, which enables reliable and distributed storage of large files and metadata associated with NFTs.
