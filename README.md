@@ -19,6 +19,7 @@ As businesses navigate the complex world of logistics, BitLogix emerges as a bea
 - **Token Rewards**: Token reward system allows users to claim tokens as a one-time reward, promoting active participation and collaboration within the supply chain ecosystem. 
 - **Quality Control:** Enterprises can control product quality and ensure compliance.
 - **NFT Rewards:** Enterprises can issue NFTs as rewards to the Person-in-Charge.
+- **Inventory Management with Automatic Ordering:** Any recipient can efficiently manage product inventory on a periodic basis. This capability empowers recipients to maintain optimal stock levels.
 - **Robust Security**: Built with a decentralized architecture for data integrity.
  
 # Architecture
@@ -66,11 +67,12 @@ The project should now be running on `http://localhost:3000`
 # Usage
 
 * Enterprises and recipients can easily register to access BitLogix.
+* * Metamask integration ensures secure transactions and interactions with the BitTorrent chain.
 * Enterprises create products, recipients confirm receipt for efficient tracking.
 * Active participants earn tokens as one-time rewards within the ecosystem.
 * Enterprises ensure product quality and compliance by contacting the Person-in-Charge.
 * Enterprises issue NFTs as rewards to the Person-in-Charge for quality control and communication enhancement.
-* Metamask integration ensures secure transactions and interactions with the BitTorrent chain.
+* Recipients can efficiently manage inventory on a periodic basis, ensuring optimal stock levels.
 
 # Smart contract Documentation
 
