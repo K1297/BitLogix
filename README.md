@@ -67,7 +67,7 @@ The project should now be running on `http://localhost:3000`
 # Usage
 
 * Enterprises and recipients can easily register to access BitLogix.
-* * Metamask integration ensures secure transactions and interactions with the BitTorrent chain.
+* Metamask integration ensures secure transactions and interactions with the BitTorrent chain.
 * Enterprises create products, recipients confirm receipt for efficient tracking.
 * Active participants earn tokens as one-time rewards within the ecosystem.
 * Enterprises ensure product quality and compliance by contacting the Person-in-Charge.
